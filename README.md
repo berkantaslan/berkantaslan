@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkant ASLAN</h1>
-<h3 align="center">Artificial Intelligence & Mechatronics Engineer</h3>
+<h3 align="center">Python Master - Artificial Intelligence & Mechatronics Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkantaslan&label=Profile%20views&color=0e75b6&style=flat" alt="berkantaslan" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **EveryOne**
 
-- 💬 Ask me about **python, Artificial Intelligence, Machine Learning, Deep Learning**
+- 💬 Ask me about **Python, Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **berkantaslan@hotmail.com.tr**
 
