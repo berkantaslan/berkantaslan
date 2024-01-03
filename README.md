@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.academia.edu/attachments/109297023/download_file](https://www.academia.edu/attachments/109297023/download_file)
 
-- ⚡ Fun fact **Technology, Robotics, Artificial Intelligence, Software**
+- ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
