@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Python Master & Artificial Intelligence & Software**
 
-- 🌱 I’m currently learning **C#, .Net, Docker, Kubernetes**
+- 🌱 I’m currently learning **C#, .Net, Flutter, Docker, Kubernetes**
 
 - 👯 I’m looking to collaborate on **EveryOne**
 
 - 🤝 I’m looking for help with **EveryOne**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python, Artificial Intelligence, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **berkantaslan@hotmail.com.tr**
 
