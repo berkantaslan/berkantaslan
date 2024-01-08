@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantaslan" alt="berkantaslan" /></a> </p>
 
-- 🔭 I’m currently working on **Python & Artificial Intelligence & Software**
+- 🔭 I’m currently working on **Python & Artificial Intelligence & Software & Data**
 
 - 🌱 I’m currently learning **C#, .Net, Flutter, Docker, Kubernetes**
 
