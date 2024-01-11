@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Berkant ASLAN</h1>
-<h3 align="center">Python Master - Artificial Intelligence & Mechatronics Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berkantaslan&label=Profile%20views&color=0e75b6&style=flat" alt="berkantaslan" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Master;Artificial+Intelligence+Engineer;Mechatronics+Engineer;Full+Stack+Web+/+Mobile+Developer;Coding%20Enthusiast&center=true&width=500&height=35">
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantaslan" alt="berkantaslan" /></a> </p>
+<p align="center">
+  <a target="_blank" href="https://linkedin.com/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+	&emsp;
+    <a target="_blank" href="https://github.com/coderrsid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/berkantaslan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+	&emsp;
+  <a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=32berkant07@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img alt="followers" title="Send MAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=berkantaslan&label=Profile%20views&color=0e75b6&style=flat" alt="berkantaslan" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantaslan" alt="berkantaslan" /></a> </p>
 
 - 🔭 I’m currently working on **Python & Artificial Intelligence & Software & Data**
 
 - 🌱 I’m currently learning **C#, .Net, Flutter, Docker, Kubernetes**
+
+- 🎨 I'm a self-taught UI designer
+
+- 📱 I make apps for Android and iOS
 
 - 👯 I’m looking to collaborate on **EveryOne**
 
@@ -50,7 +65,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkantaslan&show_icons=true&locale=en" alt="berkantaslan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berkantaslan&" alt="berkantaslan" /></p>
+Credits: [Berkant Aslan](https://github.com/berkantaslan)
+
+Last Edited on: 11/01/2024
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/berkantaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkantaslan" /></a></p><br><br>
