@@ -9,7 +9,7 @@
 <p align="center">
   <a target="_blank" href="https://linkedin.com/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	&emsp;
-    <a target="_blank" href="https://github.com/coderrsid"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/berkantaslan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+    <a target="_blank" href="https://github.com/berkantaslan"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/berkantaslan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 	&emsp;
   <a target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&to=32berkant07@gmail.com&su=SUBJECT&body=BODY&tf=cm"><img alt="followers" title="Send MAIL" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
