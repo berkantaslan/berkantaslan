@@ -20,9 +20,9 @@
 
 - 🌱 I’m currently learning **C#, .Net, Flutter, Docker, Kubernetes**
 
-- 🎨 I'm a self-taught UI designer
+- 🎨 I'm a self-taught **UI Designer**
 
-- 📱 I make apps for Android and iOS
+- 📱 I can make apps for **PC, Android and iOS**
 
 - 👯 I’m looking to collaborate on **EveryOne**
 
@@ -67,9 +67,10 @@
 
 Credits: [Berkant Aslan](https://github.com/berkantaslan)
 
-Last Edited on: 11/01/2024
+Last Edited on: **11/01/2024**
 
 <h3 align="left">Support:</h3>
+
 <p><a href="https://www.buymeacoffee.com/berkantaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkantaslan" /></a></p><br><br>
 
 
