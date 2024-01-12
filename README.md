@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Master;Artificial+Intelligence+Engineer;Mechatronics+Engineer;Full+Stack+Web+/+Mobile+Developer;Coding%20Enthusiast&center=true&width=500&height=35">
 </p>
 
-<img align="right" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113c26b246ec9e17af04b478336bb0af261453d167&rid=giphy.gif&ct=g" alt="coding">
-
 <p align="center">
   <a target="_blank" href="https://linkedin.com/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	&emsp;
@@ -15,6 +13,8 @@
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=berkantaslan&label=Profile%20views&color=0e75b6&style=flat" alt="berkantaslan" /> </p>
+
+<img align="right" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113c26b246ec9e17af04b478336bb0af261453d167&rid=giphy.gif&ct=g" alt="coding">
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantaslan" alt="berkantaslan" /></a> </p>
 
