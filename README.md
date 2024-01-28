@@ -7,7 +7,7 @@
 <p align="center">
   <a target="_blank" href="https://linkedin.com/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	&emsp;
-								      <a target="_blank" href="[https://linkedin.com/berkantaslan](https://www.kaggle.com/berkantaslan)"><img alt="followers" title="Connect on Kaggle" src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/></a>
+								      <a target="_blank" href="https://www.kaggle.com/berkantaslan"><img alt="followers" title="Connect on Kaggle" src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/></a>
 	&emsp;
     <a target="_blank" href="https://github.com/berkantaslan"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/berkantaslan?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
 	&emsp;
