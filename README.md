@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/berkantaslan"><img alt="followers" title="Connect on LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 	&emsp;
 								      <a target="_blank" href="https://www.kaggle.com/berkantaslan"><img alt="followers" title="Connect on Kaggle" src="https://img.shields.io/badge/Kaggle-111111?style=for-the-badge&logo=kaggle"/></a>
 	&emsp;
