@@ -77,7 +77,6 @@ Last Edited on: **11/01/2024**
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.buymeacoffee.com/berkantaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkantaslan" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/berkantaslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="berkantaslan" /></a></p>
 
-
-
+<p align="right">🧿</p>
