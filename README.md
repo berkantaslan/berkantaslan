@@ -38,7 +38,7 @@
 
 - 📫 How to reach me **berkantaslan@hotmail.com.tr**
 
-- 📄 Know about my experiences [https://www.academia.edu/attachments/109297023/download_file](https://www.academia.edu/attachments/109297023/download_file)
+- 📄 Know about my experiences [https://www.academia.edu/attachments/111222726/download_file](https://www.academia.edu/attachments/111222726/download_file)
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
