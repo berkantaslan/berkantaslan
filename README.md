@@ -42,6 +42,8 @@
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
+**Note:** There are lots of projects more than projects you reach on my Github profile. 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/berkantaslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="berkantaslan" height="30" width="40" /></a>
