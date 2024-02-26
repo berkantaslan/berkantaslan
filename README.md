@@ -28,7 +28,7 @@
 
 - 🎨 I'm a self-taught **UI Designer**
 
-- 📱 I can make apps for **PC, Android and iOS**
+- 📱 I can make apps for **PC, Web, Android and iOS**
 
 - 👯 I’m looking to collaborate on **EveryOne**
 
