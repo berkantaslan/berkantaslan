@@ -36,9 +36,9 @@
 
 - 💬 Ask me about **Python, Artificial Intelligence, Machine Learning, Deep Learning**
 
-- 📫 Reach me with **berkantaslan@hotmail.com.tr**
+- 📫 Reach me with **hello@berkantaslan.com**
 
-- 📄 You can download my CV from [https://www.academia.edu/attachments/122723734/download_file](https://www.academia.edu/attachments/122723734/download_file)
+- 📄 You can download my CV from [https://www.academia.edu/attachments/123050290/download_file](https://www.academia.edu/attachments/123050290/download_file)
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
