@@ -18,8 +18,6 @@
 
 <img align="right" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76113c26b246ec9e17af04b478336bb0af261453d167&rid=giphy.gif&ct=g" alt="coding">
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berkantaslan" alt="berkantaslan" /></a> </p>
-
 - ❤️ I love **Coding**
 
 - 🔭 I’m currently working on **Python & Artificial Intelligence & Software & Data**
