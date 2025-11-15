@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
-**Note:** There are lots of projects more than projects you reach on my Github profile. (**Totally Repositories:** 27)
+**Note:** There are lots of projects more than projects you reach on my Github profile. (**Totally Repositories:** 29)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
