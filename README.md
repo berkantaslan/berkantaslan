@@ -36,7 +36,7 @@
 
 - 📫 Reach me with **hello@berkantaslan.com**
 
-- 📄 You can download my CV from [https://www.academia.edu/attachments/125390446/download_file](https://www.academia.edu/attachments/125390446/download_file)
+- 📄 You can download my CV from [https://www.academia.edu/attachments/132012755/download_file](https://www.academia.edu/attachments/132012755/download_file)
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
