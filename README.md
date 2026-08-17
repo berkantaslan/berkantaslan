@@ -40,7 +40,7 @@
 
 - ⚡ Fun fact **Artificial Intelligence, Software, Technology, Robotics**
 
-**Note:** There are lots of projects more than projects you reach on my Github profile. (**Totally Repositories:** 35)
+**Note:** There are lots of projects more than projects you reach on my Github profile. (**Totally Repositories:** 44)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,7 +69,7 @@
 
 Credits: [Berkant Aslan](https://github.com/berkantaslan)
 
-Last Edited on: **27/10/2025**
+Last Edited on: **17/08/2026**
 
 <h3 align="left">Support:</h3>
 
